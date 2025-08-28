@@ -3,7 +3,7 @@ CREATE TABLE estudiante (
   nombre        TEXT,
   matricula     TEXT,
   carrera       TEXT
-);
+); 
 --  Tabla: libro
 CREATE TABLE libro (
   id          SERIAL PRIMARY KEY,
